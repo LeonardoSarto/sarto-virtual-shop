@@ -1,1 +1,0 @@
-# sarto-virtual-shop
